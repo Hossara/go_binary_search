@@ -1,0 +1,2 @@
+# Go binary search 
+practice
